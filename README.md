@@ -16,6 +16,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 
 ## APIs [⬆](#contents)
 
+- [Controller Framework for Node.js and TypeScript](https://blog.kloubert.dev/posts/controller-framework-for-nodejs-and-typescript/)
 - [Fast backends in Node.js using PostgreSQL](https://blog.kloubert.dev/posts/fast-backends-in-nodejs-using-postgresql/)
 
 ## Artificial Intelligence [⬆](#contents)
