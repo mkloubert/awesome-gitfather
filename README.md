@@ -1,8 +1,8 @@
 # Awesome GitFather
 
-<a href="https://www.linkedin.com/in/marcel-kloubert-410013282/"><img align="right" src="./assets/images/gitfather-avatar.jpg" alt="awesome-gitfather" title="awesome-gitfather" width="40%" /></a>
+<a href="https://www.linkedin.com/in/marcel-kloubert-410013282/"><img align="right" src="./assets/images/gitfather-avatar.jpg" alt="awesome-gitfather" title="awesome-gitfather" width="33%" /></a>
 
-![Awesome](./assets/images/awesome-icon.svg)&nbsp;&nbsp;&nbsp; 👉 👉 👉
+![Awesome](./assets/images/awesome-icon.svg)&nbsp;&nbsp;&nbsp; 👉
 
 A curated list of awesome and amazing things [The GitFather](https://www.linkedin.com/in/marcel-kloubert-410013282/) and his friends did, still do and will do as well.
 
