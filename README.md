@@ -10,24 +10,24 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 
 ## Table of contents [⬆](#awesome-gitfather)
 
-- [APIs](#apis-)
-- [Artificial Intelligence](#artificial-intelligence-)
 - [CMS](#cms-)
+- [Go](#go-)
 - [React](#react-)
-
-## APIs [⬆](#table-of-contents-)
-
-- [Controller framework for Node.js and TypeScript](https://blog.kloubert.dev/posts/controller-framework-for-nodejs-and-typescript/)
-- [Fast backends in Node.js using PostgreSQL](https://blog.kloubert.dev/posts/fast-backends-in-nodejs-using-postgresql/)
-
-## Artificial Intelligence [⬆](#table-of-contents-)
-
-- [Write translator in Golang](https://blog.kloubert.dev/posts/write-translator-in-golang/)
+- [TypeScript](#typescript-)
 
 ## CMS [⬆](#table-of-contents-)
 
 - [Create blogs with Hugo](https://blog.kloubert.dev/posts/create-blogs-with-hugo/)
 
+## Go [⬆](#table-of-contents-)
+
+- [Write translator in Golang](https://blog.kloubert.dev/posts/write-translator-in-golang/)
+
 ## React [⬆](#table-of-contents-)
 
 - [Visual Studio Code extension with UI in React.js](https://blog.kloubert.dev/posts/vscode-extension-with-ui-in-react/)
+
+## TypeScript [⬆](#table-of-contents-)
+
+- [Controller framework for Node.js and TypeScript](https://blog.kloubert.dev/posts/controller-framework-for-nodejs-and-typescript/)
+- [Fast backends in Node.js using PostgreSQL](https://blog.kloubert.dev/posts/fast-backends-in-nodejs-using-postgresql/)
