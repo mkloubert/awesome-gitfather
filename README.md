@@ -13,6 +13,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 - [APIs](#apis)
 - [Artificial Intelligence](#artificial-intelligence)
 - [CMS](#cms)
+- [React](#react)
 
 ## APIs [⬆](#contents)
 
