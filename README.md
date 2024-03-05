@@ -26,3 +26,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 ## CMS [⬆](#contents)
 
 - [Create blogs with Hugo](https://blog.kloubert.dev/posts/create-blogs-with-hugo/)
+
+## React [⬆](#contents)
+
+- [Create blogs with Hugo](https://blog.kloubert.dev/posts/create-blogs-with-hugo/)
