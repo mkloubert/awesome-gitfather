@@ -29,4 +29,4 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 
 ## React [⬆](#contents)
 
-- [Create blogs with Hugo](https://blog.kloubert.dev/posts/create-blogs-with-hugo/)
+- [Visual Studio Code extension with UI in React.js](https://blog.kloubert.dev/posts/vscode-extension-with-ui-in-react/)
