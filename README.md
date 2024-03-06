@@ -12,6 +12,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 
 - [CMS](#cms-)
 - [Go](#go-)
+- [PowerShell](#powershell-)
 - [React](#react-)
 - [TypeScript](#typescript-)
 
@@ -22,6 +23,10 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 ## Go [⬆](#table-of-contents-)
 
 - [Write translator in Golang](https://blog.kloubert.dev/posts/write-translator-in-golang/)
+
+## PowerShell [⬆](#table-of-contents-)
+
+- [Update firewall rules in Microsoft Azure with PowerShell](https://blog.kloubert.dev/posts/update-firewall-rules-in-azure-with-powershell/)
 
 ## React [⬆](#table-of-contents-)
 
