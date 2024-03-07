@@ -26,6 +26,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 
 ## PowerShell [⬆](#table-of-contents-)
 
+- [Start build pipeline in Azure DevOps with PowerShell](https://blog.kloubert.dev/posts/start-build-with-powershell-in-azure-devops/)
 - [Update firewall rules in Microsoft Azure with PowerShell](https://blog.kloubert.dev/posts/update-firewall-rules-in-azure-with-powershell/)
 
 ## React [⬆](#table-of-contents-)
