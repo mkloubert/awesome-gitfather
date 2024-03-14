@@ -16,6 +16,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 - [PowerShell](#powershell-)
 - [React](#react-)
 - [TypeScript](#typescript-)
+- [Vue](#vue-)
 - [WebAssembly](#webassembly-)
 
 ## CMS [⬆](#table-of-contents-)
@@ -46,6 +47,10 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 
 - [Controller framework for Node.js and TypeScript](https://blog.kloubert.dev/posts/controller-framework-for-nodejs-and-typescript/)
 - [Fast backends in Node.js using PostgreSQL](https://blog.kloubert.dev/posts/fast-backends-in-nodejs-using-postgresql/)
+
+## Vue [⬆](#table-of-contents-)
+
+- [Text-to-Speech web app with Vue, OpenAI and Go](https://blog.kloubert.dev/posts/text-to-speech-app-with-vue-and-golang/)
 
 ## WebAssembly [⬆](#table-of-contents-)
 
