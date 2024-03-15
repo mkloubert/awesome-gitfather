@@ -13,7 +13,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 - [CMS](#cms-)
 - [Flutter](#flutter-)
 - [Go](#go-)
-- [Node.js](#node.js)
+- [Node.js](#nodejs-)
 - [PowerShell](#powershell-)
 - [React](#react-)
 - [TypeScript](#typescript-)
