@@ -13,6 +13,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 - [CMS](#cms-)
 - [Flutter](#flutter-)
 - [Go](#go-)
+- [Node.js](#node.js)
 - [PowerShell](#powershell-)
 - [React](#react-)
 - [TypeScript](#typescript-)
@@ -31,6 +32,10 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 ## Go [⬆](#table-of-contents-)
 
 - [Write translator in Golang](https://blog.kloubert.dev/posts/write-translator-in-golang/)
+
+## Node.js [⬆](#table-of-contents-)
+
+- [Handle HTTP connections in Node.js like Deno does](https://blog.kloubert.dev/posts/handle-http-connections-in-node-like-deno/)
 
 ## PowerShell [⬆](#table-of-contents-)
 
