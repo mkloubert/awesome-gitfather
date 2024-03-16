@@ -28,6 +28,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 
 - [Get weather information with ChatGPT](https://blog.kloubert.dev/posts/get-weather-info-with-chatgpt/)
 - [Image recognition app with Flutter](https://blog.kloubert.dev/posts/image-recognition-app-with-flutter/)
+- [Open file on smartphone in Visual Studio Code](https://blog.kloubert.dev/posts/open-file-in-vscode-from-smartphone/)
 
 ## Go [⬆](#table-of-contents-)
 
