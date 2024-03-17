@@ -56,6 +56,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 
 ## Vue [⬆](#table-of-contents-)
 
+- [Ship Vue app with Go](https://blog.kloubert.dev/posts/ship-vue-app-with-go-cli-tool/)
 - [Text-to-Speech web app with Vue, OpenAI and Go](https://blog.kloubert.dev/posts/text-to-speech-app-with-vue-and-golang/)
 
 ## WebAssembly [⬆](#table-of-contents-)
