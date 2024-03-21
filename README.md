@@ -14,6 +14,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 - [CMS](#cms-)
 - [Flutter](#flutter-)
 - [Go](#go-)
+- [Linux / UNIX](#linux---unix-)
 - [Node.js](#nodejs-)
 - [PowerShell](#powershell-)
 - [React](#react-)
@@ -39,6 +40,10 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 ## Go [⬆](#table-of-contents-)
 
 - [Write translator in Golang](https://blog.kloubert.dev/posts/write-translator-in-golang/)
+
+## Linux / UNIX [⬆](#table-of-contents-)
+
+- [Useful aliases for Linux and UNIX systems](https://blog.kloubert.dev/posts/useful-aliases-for-linux-and-unix/)
 
 ## Node.js [⬆](#table-of-contents-)
 
