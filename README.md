@@ -43,6 +43,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 
 ## Linux / UNIX [⬆](#table-of-contents-)
 
+- [Get access token with bash script using OAuth2 client credentials](https://blog.kloubert.dev/posts/get-access-token-with-bash-using-oauth2-client-credentials/)
 - [Useful aliases for Linux and UNIX systems](https://blog.kloubert.dev/posts/useful-aliases-for-linux-and-unix/)
 
 ## Node.js [⬆](#table-of-contents-)
