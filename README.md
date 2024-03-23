@@ -16,6 +16,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 - [Go](#go-)
 - [Linux / UNIX](#linux--unix-)
 - [Node.js](#nodejs-)
+- [PHP](#php-)
 - [PowerShell](#powershell-)
 - [React](#react-)
 - [TypeScript](#typescript-)
@@ -49,6 +50,11 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 ## Node.js [⬆](#table-of-contents-)
 
 - [Handle HTTP connections in Node.js like Deno does](https://blog.kloubert.dev/posts/handle-http-connections-in-node-like-deno/)
+
+## PHP [⬆](#table-of-contents-)
+
+- [phpLINQ](https://github.com/mkloubert/phpLINQ)
+- [Securily destroy and delete files with PHP script](https://blog.kloubert.dev/posts/securily-destroy-and-delete-files-with-php-script/)
 
 ## PowerShell [⬆](#table-of-contents-)
 
