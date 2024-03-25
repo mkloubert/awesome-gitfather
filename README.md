@@ -50,6 +50,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 
 ## Node.js [⬆](#table-of-contents-)
 
+- [Fast backends  Node.js using PostgreSQL](https://blog.kloubert.dev/posts/fast-backends-in-nodejs-using-postgresql/)
 - [Handle HTTP connections in Node.js like Deno does](https://blog.kloubert.dev/posts/handle-http-connections-in-node-like-deno/)
 
 ## PHP [⬆](#table-of-contents-)
@@ -71,7 +72,6 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 ## TypeScript [⬆](#table-of-contents-)
 
 - [Controller framework for Node.js and TypeScript](https://blog.kloubert.dev/posts/controller-framework-for-nodejs-and-typescript/)
-- [Fast backends in Node.js using PostgreSQL](https://blog.kloubert.dev/posts/fast-backends-in-nodejs-using-postgresql/)
 - [Implement blockchain with TypeScript](https://blog.kloubert.dev/posts/implement-blockchain-with-typescript/)
 
 ## Vue [⬆](#table-of-contents-)
