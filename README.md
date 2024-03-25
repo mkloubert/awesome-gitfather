@@ -26,6 +26,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 ## .NET [⬆](#table-of-contents-)
 
 - [Automatic notification from other properties in C# ViewModel (MVVM)](https://blog.kloubert.dev/posts/automatic-notification-from-other-properties-in-csharp-viewmodel/)
+- [Backup Azure Blob Storage with C#](https://blog.kloubert.dev/posts/backup-azure-blob-storage-with-csharp/)
 - [Implement compiler-safe ViewModel in C#](https://blog.kloubert.dev/posts/implement-compiler-safe-viewmodel-in-csharp/)
 
 ## CMS [⬆](#table-of-contents-)
