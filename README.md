@@ -81,5 +81,5 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 
 ## WebAssembly [⬆](#table-of-contents-)
 
-- [Setup WebAssembly with Rust](https://blog.kloubert.dev/posts/setup-webassembly-with-rust/)
 - [Setup WebAssembly with a TypeScript-like language](https://blog.kloubert.dev/posts/setup-webassembly-with-typescript-like-language/)
+- [Setup WebAssembly with Rust](https://blog.kloubert.dev/posts/setup-webassembly-with-rust/)
