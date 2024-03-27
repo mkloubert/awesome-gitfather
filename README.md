@@ -58,6 +58,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 - [Implement fast OAuth2 server with PHP and Slim](https://blog.kloubert.dev/posts/implement-fast-oauth2-server-with-php-and-slim/)
 - [phpLINQ](https://github.com/mkloubert/phpLINQ)
 - [Securily destroy and delete files with PHP script](https://blog.kloubert.dev/posts/securily-destroy-and-delete-files-with-php-script/)
+- [Write password manager in PHP](https://blog.kloubert.dev/posts/write-password-manager-in-php/)
 
 ## PowerShell [⬆](#table-of-contents-)
 
