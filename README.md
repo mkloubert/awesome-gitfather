@@ -11,6 +11,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 ## Table of contents [⬆](#awesome-gitfather)
 
 - [.NET](#net-)
+- [AI](#ai-)
 - [CMS](#cms-)
 - [Flutter](#flutter-)
 - [Go](#go-)
@@ -28,6 +29,10 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 - [Automatic notification from other properties in C# ViewModel (MVVM)](https://blog.kloubert.dev/posts/automatic-notification-from-other-properties-in-csharp-viewmodel/)
 - [Backup Azure Blob Storage with C#](https://blog.kloubert.dev/posts/backup-azure-blob-storage-with-csharp/)
 - [Implement compiler-safe ViewModel in C#](https://blog.kloubert.dev/posts/implement-compiler-safe-viewmodel-in-csharp/)
+
+## AI [⬆](#ai-)
+
+- [Create LangChain alternative AssemblyChain](https://github.com/assemblychain-ai)
 
 ## CMS [⬆](#table-of-contents-)
 
