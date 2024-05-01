@@ -32,6 +32,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 
 ## AI [⬆](#ai-)
 
+- [Bash script which tags images with AI](https://kloubert.blog/posts/bash-script-tagging-images-with-ai/)
 - [Create LangChain alternative AssemblyChain](https://github.com/assemblychain-ai)
 
 ## CMS [⬆](#table-of-contents-)
