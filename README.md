@@ -74,6 +74,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 ## React [⬆](#table-of-contents-)
 
 - [Create ChatGPT prompt from voice with Next.js](https://blog.kloubert.dev/posts/create-chatgpt-prompt-from-voice/)
+- [Create online whiteboard in 10 minutes with React](https://kloubert.blog/posts/create-online-whiteboard-in-10-minutes-with-react/)
 - [DOOM map viewer with Next.js](https://blog.kloubert.dev/posts/doom-map-viewer-with-nextjs/)
 - [Visual Studio Code extension with UI in React.js](https://blog.kloubert.dev/posts/vscode-extension-with-ui-in-react/)
 
