@@ -13,6 +13,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 - [.NET](#net-)
 - [AI](#ai-)
 - [CMS](#cms-)
+- [Docker](#docker-)
 - [Flutter](#flutter-)
 - [Go](#go-)
 - [Linux / UNIX](#linux--unix-)
@@ -39,6 +40,10 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 ## CMS [⬆](#table-of-contents-)
 
 - [Create blogs with Hugo](https://blog.kloubert.dev/posts/create-blogs-with-hugo/)
+
+## Docker [⬆](#table-of-contents-)
+
+- [Run local Ad-Blocker with Docker](https://kloubert.blog/posts/run-local-adblocker-with-docker/)
 
 ## Flutter [⬆](#table-of-contents-)
 
