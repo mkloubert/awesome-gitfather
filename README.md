@@ -53,6 +53,7 @@ A curated list of awesome and amazing things [The GitFather](https://www.linkedi
 
 ## Go [⬆](#table-of-contents-)
 
+- [Setup GitHub Action for Go project](http://localhost:1313/posts/setup-github-action-for-go-project/)
 - [Write translator in Golang](https://blog.kloubert.dev/posts/write-translator-in-golang/)
 
 ## Linux / UNIX [⬆](#table-of-contents-)
